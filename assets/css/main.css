@@ -32,6 +32,14 @@ body {
 	line-height: 1;
 }
 
+.inner > img {
+	width: 130px; 
+	height: 130px;
+	border-radius: 100%;
+	position: relative;
+	bottom: 120px;
+	left:350px;
+}
 ol, ul {
 	list-style: none;
 }
